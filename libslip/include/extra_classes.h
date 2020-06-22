@@ -1,0 +1,3 @@
+
+#include "stream.h"
+enum SyncResult {SYNC_RESULT_FAILURE, SYNC_RESULT_RUNNING, SYNC_RESULT_SUCCESS};
